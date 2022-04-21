@@ -1,0 +1,12 @@
+{
+	"name": "Fun tasks",
+    "id": "039fc3e8-cc45-44d2-90bb-7301d5e2430f",
+    "children": [
+        {
+            "id": a98f52b2-59b9-474f-9217-7571c01e86c1
+            "name": "Text adventure 1",
+            "guide": "c1.md",
+            "py": "c1.py"
+        }		
+    ]
+}
